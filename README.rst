@@ -2,7 +2,7 @@
 kotti_feed
 ==========
 
-.. image:: https://pypip.in/version/kotti_feed/badge.svg
+.. image:: https://img.shields.io/pypi/v/kotti_feed.svg
     :target: https://pypi.python.org/pypi/kotti_feed/
     :alt: Latest Version
 
